@@ -20,10 +20,10 @@ Licensed Work:        Arcana Storage SDK, Auth, Keystore
                       The Licensed Work is (c) 2022 Arcana Network
 
 Additional Use Grant: Any additional uses listed and defined at
-                      [Arcana Terms of Service](./ArcanaToS.txt).
+                      [Arcana Network Terms of Service](https://github.com/arcana-network/license/blob/main/TERMS).
 
 Change Date:          The earlier of 2026-05-11 or a date specified at
-                      [Arcana Terms of Service](./ArcanaToS.txt).
+                      [Arcana Network Terms of Service](https://github.com/arcana-network/license/blob/main/TERMS).
 
 Change License:       GNU General Public License v2.0 or later
 
