@@ -1,0 +1,11 @@
+Arcana
+Auth
+FZE
+GPL
+Garoutech
+Keystore
+LICENSOR
+LLC
+Licensor
+MERCHANTABILITY
+SDK

@@ -1,35 +1,31 @@
-**NOTE**
 
-This License file is under review by the Arcana Legal team.
-Once they approve of our open source license terminology, we will remove this disclaimer.
-
------------------------------------------------------------------------------
-
-Business Source License 1.1
+# Business Source License 1.1
 
 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
+
 "Business Source License" is a trademark of MariaDB Corporation Ab.
 
 -----------------------------------------------------------------------------
 
-Parameters
+## Parameters
 
-Licensor:             Arcana Network
+**Licensor:**             Garoutech Digital FZE LLC
 
-Licensed Work:        Arcana Storage SDK, Auth, Keystore
-                      The Licensed Work is (c) 2022 Arcana Network
+**Licensed Work:**        Arcana Storage SDK, Arcana Auth SDK, Arcana Wallet SDK, Arcana Keystore library.
 
-Additional Use Grant: Any additional uses listed and defined at
-                      [Arcana Network Terms of Service](https://github.com/arcana-network/license/blob/main/TERMS).
+```The Licensed Work is (c) 2022 Garoutech Digital FZE LLC```
 
-Change Date:          The earlier of 2026-05-11 or a date specified at
-                      [Arcana Network Terms of Service](https://github.com/arcana-network/license/blob/main/TERMS).
+**Additional Use Grant:** Any additional uses listed and defined at
+                      [Terms of Service](https://github.com/arcana-network/license/blob/main/TERMS).
 
-Change License:       GNU General Public License v2.0 or later
+**Change Date:**          The earlier of 2026-05-11 or a date specified at
+                      [Terms of Service](https://github.com/arcana-network/license/blob/main/TERMS).
+
+**Change License:**       GNU General Public License v2.0 or later
 
 -----------------------------------------------------------------------------
 
-Terms
+## Terms
 
 The Licensor hereby grants you the right to copy, modify, create derivative
 works, redistribute, and make non-production use of the Licensed Work. The
@@ -77,7 +73,7 @@ as long as you comply with the Covenants of Licensor below.
 
 -----------------------------------------------------------------------------
 
-Covenants of Licensor
+## Covenants of Licensor
 
 In consideration of the right to use this License’s text and the "Business
 Source License" name and trademark, Licensor covenants to MariaDB, and to all
@@ -100,7 +96,7 @@ other recipients of the licensed work to be provided by Licensor:
 
 -----------------------------------------------------------------------------
 
-Notice
+## Notice
 
 The Business Source License (this document, or the "License") is not an Open
 Source license. However, the Licensed Work will eventually be made available
