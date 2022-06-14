@@ -1,4 +1,4 @@
-﻿<p style ="text-align: center;"><span style="text-decoration: underline;">Privacy Policy</span></p>
+﻿# Privacy Policy
 
 We value and respect your right to privacy, and to this end are committed to protecting your personal data provided to us directly or indirectly. This Privacy Policy sets out our commitment and explains in detail what information we may gather from your visit to our Platform and, why and how your personal data may be processed when you use our Services.
 
