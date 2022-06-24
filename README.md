@@ -9,12 +9,12 @@
 <a href="https://docs.beta.arcana.network/"><img src="https://raw.githubusercontent.com/arcana-network/branding/main/an_banner_temp.png" alt="Arcana Storage SDK"/></a>
 </p>
 
-# License & Terms of Use
+# License, Privacy Policy & Terms of Use
 
 This repository contains Arcana Network Open Source components
 license and terms of use.
 
-The README.md files of Arcana Network Open Source components will refer to the license file and Terms of Use file listed in this repository.
+The README.md files in the GiHub repositories of Arcana Network Open Source components refer to these files.
 
 Do not change these files as they have legal approved content.
 For any questions contact our legal team.
