@@ -1,30 +1,30 @@
-ARCANA TERMS AND CONDITIONS OF USE
+# ARCANA TERMS AND CONDITIONS OF USE
 
-These Terms and Conditions of Use (these "Terms") are between you (also referred to herein as "user", "you" and "your") and Garoutech Digital FZE LLC, a company incorporated in Ajman, UAE ("Garoutech", "we", "us" and "our"). These Terms govern your use of the services provided by Garoutech described below (the "Services"). By accessing the Services made available on https://arcana.network/ (the "Website") you agree that you have read, understand, and accept all of the terms and conditions contained in these Terms.
+These Terms and Conditions of Use (these "**Terms**") are between you (also referred to herein as "**user**", "**you**" and "**your**") and Garoutech Digital FZE LLC, a company incorporated in Ajman, UAE ("**Garoutech**", "**we**", "**us**" and "**our**"). These Terms govern your use of the services provided by Garoutech described below (the "**Services**"). By accessing the Services made available on https://arcana.network/ (the "**Website**") you agree that you have read, understand, and accept all of the terms and conditions contained in these Terms.
 
 We may make changes to these Terms from time to time. If we do this, we will post the revised Terms on the Website and will indicate at the top of this page the date it was last revised. You understand and agree that your continued use of the Service or the Website after we have made any such changes constitutes your acceptance of the new Terms.
 
-INTRODUCTION
+## INTRODUCTION
 
-Eligibility
-To be eligible to use the Website you must be at least eighteen (18) years of age or older. The Website, interface and Services (as defined below) is strictly NOT offered to persons or entities who reside in, are citizens of, are incorporated in, or have a registered office in any Restricted Territory, as defined below (any such person or entity from a Restricted Territory shall be a “Restricted Person”). If you are a Restricted Person, then do not attempt to access or use the Website. Garoutech will implement technical measures such as "geoblocking" to ensure that the Website, interface and Services are not available to Restricted Persons. Use of a virtual private network (e.g., a VPN) or other means by Restricted Persons to access or use the Website, interface or Services is prohibited. For the purpose of these Terms, Restricted Territory shall mean Myanmar (Burma), Cote D'Ivoire (Ivory Coast), Cuba, Crimea and Sevastopol, Democratic Republic of Congo, Iran, Iraq, Libya, Mali, Nicaragua, Democratic People’s Republic of Korea (North Korea), Somalia, Sudan, Syria, Yemen, Zimbabwe, or any other state, country or region that is subject to sanctions enforced by the United States, Russia, the United Kingdom or the European Union.
+### Eligibility
+To be eligible to use the Website you must be at least eighteen (18) years of age or older. The Website, interface and Services (as defined below) is strictly NOT offered to persons or entities who reside in, are citizens of, are incorporated in, or have a registered office in any Restricted Territory, as defined below (any such person or entity from a Restricted Territory shall be a “**Restricted Person**”). If you are a Restricted Person, then do not attempt to access or use the Website. Garoutech will implement technical measures such as "geoblocking" to ensure that the Website, interface and Services are not available to Restricted Persons. Use of a virtual private network (e.g., a VPN) or other means by Restricted Persons to access or use the Website, interface or Services is prohibited. For the purpose of these Terms, **Restricted Territory** shall mean Myanmar (Burma), Cote D'Ivoire (Ivory Coast), Cuba, Crimea and Sevastopol, Democratic Republic of Congo, Iran, Iraq, Libya, Mali, Nicaragua, Democratic People’s Republic of Korea (North Korea), Somalia, Sudan, Syria, Yemen, Zimbabwe, or any other state, country or region that is subject to sanctions enforced by the United States, Russia, the United Kingdom or the European Union.
 
-Terms
+### Terms
 We reserve the right to disable access to the Website interface at any time in the event of any breach of the Terms, including without limitation, if we, in our sole discretion, believe that you, at any time, fail to satisfy the eligibility requirements set forth in the Terms. Further, we reserve the right to limit or restrict access to the Website interface by any person or entity, or within any geographic area or legal jurisdiction, at any time and at our sole discretion. We will not be liable to you for any losses or damages you may suffer as a result of or in connection with the Website interface being inaccessible to you at any time or for any reason.
 
-Data and Information
-Where requested to provide any information about yourself, you agree to (i) provide accurate, current and complete information about you as may be prompted by any registration forms on the Website or otherwise requested by Garoutech ("Registration Data"); (ii) maintain and promptly update the Registration Data, and any other information you provide to Garoutech, to keep it accurate, current and complete; (iii) promptly notify Garoutech regarding any material changes to information or circumstances that could affect your eligibility to continue to use the Website or Service or the terms on which you use the Website or Service; and (iv) be fully responsible for all your actions on the Website.
+### Data and Information
+Where requested to provide any information about yourself, you agree to (i) provide accurate, current and complete information about you as may be prompted by any registration forms on the Website or otherwise requested by Garoutech ("**Registration Data**"); (ii) maintain and promptly update the Registration Data, and any other information you provide to Garoutech, to keep it accurate, current and complete; (iii) promptly notify Garoutech regarding any material changes to information or circumstances that could affect your eligibility to continue to use the Website or Service or the terms on which you use the Website or Service; and (iv) be fully responsible for all your actions on the Website.
 
-Arcana Network Developer Dashboard
+### Arcana Network Developer Dashboard
 The Arcana Network Developer Dashboard is an interface hosted on the Website that provides a visual representation of the available Services and enables access to the Arcana software tools. It allows dApp developers to quickly conﬁgure and set up their dApp and deﬁne the kind of user experience they would like to choose for the dApp users, for example onboarding options (social OAuth, passwordless login), location of user data (anywhere, geographically limited to a region), supported blockchains (Ethereum, Polygon, Binance), dApp limits per user (bandwidth, total storage size), and blockchain development/deployment preference (Testnet / Mainnet). The dashboard can also be used to view dApp resource usage metrics such as storage and bandwidth used by dApp users.
 
-Legality
+### Legality
 You are solely responsible for adhering to all laws and regulations applicable to you and your use or access to the Website and interface thereon. Your use of the Website and Services is prohibited by and otherwise violates or facilitates the violation of any applicable laws or regulations, or contributes to or facilitates any illegal activity. We make no representations or warranties that the information, products, or services provided through the Website, are appropriate for access or use in other jurisdictions. We reserve the right to limit the availability of our Website to any person, geographic area, or jurisdiction, at any time and at our sole and absolute discretion.
 
-Access
+### Access
 You agree and understand that you are not allowed to enter any restricted area of any computer or network of Arcana under any circumstances or perform any functions that are not authorised by these Terms.
 
-THE SERVICE
+## THE SERVICE
 
 Arcana Network is a comprehensive stack of interoperable software tools designed to help developers build decentralized applications, with its own sovereign blockchain maintained by validators and network actors, and focuses on security and privacy. Third-party developers and users will be able to utilise these software tools to build applications from scratch or integrate specific functionalities with their own projects.
 
