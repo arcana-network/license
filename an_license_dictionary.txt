@@ -10,3 +10,5 @@ Licensor
 MERCHANTABILITY
 SDK
 SDKs
+Web3
+dApps
