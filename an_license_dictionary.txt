@@ -1,5 +1,6 @@
 Arcana
 Auth
+Ethereum
 FZE
 GPL
 Garoutech
@@ -8,7 +9,12 @@ LICENSOR
 LLC
 Licensor
 MERCHANTABILITY
+PRs
+Roadmap
 SDK
 SDKs
 Web3
 dApps
+dev
+redressal
+triaging

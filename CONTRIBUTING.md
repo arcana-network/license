@@ -12,7 +12,21 @@ All contributions to Arcana Network SDKs are released under the [MIT License](ht
 
 In this guide, you will learn about the do's and don'ts for making your contributions in Arcana Network SDKs.
 
+You can contribute in various ways:
+
+1. Report bugs.
+2. Report security and privacy vulnerabilities.
+3. Suggest an optimization or a more efficient way to implement a function/feature that is more robust, secure and faster than the existing implementation.
+4. Share your unique use case, additional feature request.
+5. Fix an existing bug or open GitHub issue and issue a pull request.
+6. Review any open pull requests and suggest improvisation where applicable.
+7. Vote on open GitHub issues to help us prioritize the ones that are more in demand.
+8. Add new test cases for validating security and privacy scenarios.
+9. Contribute to documentation by sharing feedback regarding missing information, incorrect information or code samples that work better than those documented. Any documentation feedback that helps new users onboard Arcana Network SDK is most welcome.
+
 ### General Guidelines
+
+* Every contribution must be associated with an open GitHub issue.
 
 * Before you report an issue, please refer to the list of open issues for the Arcana Network SDKs. Refer to the SDK repository Issues section at [GitHub](https://github.com/arcana-network).
 
@@ -22,8 +36,9 @@ In this guide, you will learn about the do's and don'ts for making your contribu
 
   - If you plan to submit a pull request, first raise an issue and assign it to yourself. Describe what you plan to provide / add or change in your PR. It could be a feature, an optimization or plugging in a security vulnerability or privacy issue.  
   - For a complex or larger change, we highly recommend that you first discuss with the core Arcana development team members and then implement it.
-  - It is expected that you will **follow the coding guidelines, testing guidelines for the Arcana Network SDKs** and **not deviate from the existing code writing style** unless there is a good reason for it.
   - Make sure that you fork the SDK repository, fix the issue in your fork, test it and commit it. Only then, issue a PR.
+  - It is expected that you will **follow the coding styles, testing processes specific to respective Arcana Network SDK repository** and **not deviate from the existing code writing style** unless there is a good reason for it.
+  - Add new test cases to automate testing your PR changes during CI cycles and to ensure nothing breaks in earlier functionality due to the changes that you introduced.
   - Refer to the SDK Quick Start, Usage and Reference Guides available at [Arcana Network Documentation Website](http://docs.beta.arcana.network/)
   - Please make sure you provide all the details in the pull request template regarding the issue you fixed and the approach that was taken for solving it.
   - We will review all PRs raised by any contributor and revert back if further action is needed on their part.
@@ -64,3 +79,6 @@ Refer to [Arcana Network Roadmap](https://arcana.network/) to understand our cur
 * [Arcana Network GitHub Repositories](https://github.com/arcana-network)
 * [Arcana Network Website](https://arcana.network/)
 * [Ethereum Community Guides and Resources](https://ethereum.org/en/learn/)
+* [Ethereum Development Standards](https://ethereum.org/en/developers/docs/standards/)
+* [Google TypeScript Guidelines](https://google.github.io/styleguide/tsguide.html)
+* [Google JavaScript Guidelines](https://google.github.io/styleguide/tsguide.html)
