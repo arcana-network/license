@@ -41,37 +41,51 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
    (iii) **Tracking Cookies Data**: We may use cookies and similar tracking technologies on our Platform to store your information/preferences. You can refuse to accept any cookies, but in such a case you may not be able to use a certain portion of the Services or Platform.
 
-3. **Disclosure** **of Data**:
+3. **Personal data and the Blockchain**
 
-   **3.1** For the provision of the Services and as set out under Clause 3, you understand and accept that we may disclose your Personal Data to:
+   **3.1**  Blockchain technology, also known as distributed ledger technology (DLT), is at the core of our business. Blockchains are decentralized and made up of digitally recorded data in a chain of packages called "blocks". The manner in which these blocks are linked is chronological, meaning that the data is very difficult to alter once recorded. Since the ledger may be distributed all over the world (across several "nodes" which usually replicate the ledger) this means there is no single person making decisions or otherwise administering the system (such as an operator of a cloud computing system), and that there is no centralized place where it is located either.
 
-   (i) third party service providers for provision of the Services, including data storage, web hosting and server providers, debt collectors, professional advisors and payment systems operators,
+   Accordingly, by design, a blockchain’s data cannot be changed or deleted and is said to be "immutable". This may affect your ability to exercise your rights such as your right to erasure ("right to be forgotten"), or your rights to object or restrict processing of your personal data. Data on the blockchain cannot be erased and cannot be changed. Although smart contracts may be used to revoke certain access rights, and some content may be made invisible to others, it is not deleted.
 
-   (ii) our employees, contractors and/or related entities,
+   **3.2** In certain circumstances, in order to comply with our contractual obligations to you (such as delivery of tokens or provision of other Services) it will be necessary to collect certain personal data, such as your wallet address, onto the blockchain; this is done through a smart contract and requires you to execute such transactions using your wallet’s private key.
 
-   (iii) our existing or potential agents or business partners,
+   **3.3** The ultimate decisions to (a) transact on the blockchain using your wallet address, as well as (b) share the public key relating to your wallet address with anyone (including us) rests with you. IF YOU WANT TO ENSURE YOUR PRIVACY RIGHTS ARE NOT AFFECTED IN ANY WAY, YOU SHOULD NOT TRANSACT ON BLOCKCHAINS AS CERTAIN RIGHTS MAY NOT BE FULLY AVAILABLE OR EXERCISABLE BY YOU OR US DUE TO THE TECHNOLOGICAL INFRASTRUCTURE OF THE BLOCKCHAIN. IN PARTICULAR THE BLOCKCHAIN IS AVAILABLE TO THE PUBLIC AND ANY PERSONAL DATA SHARED ON THE BLOCKCHAIN WILL BECOME PUBLICLY AVAILABLE.
 
-   (iv) sponsors or promoters of any competition we run,
+4. **Disclosure** **of Data**:
 
-   (v) anyone to whom our business or assets are, or may be, transferred,
+   **4.1** For the provision of the Services and as set out under this section 4, you understand and accept that we may  may  use and/or disclose your Personal Data for its legitimate interests or business purposes, including operations for these purposes. These may include, without limitation, the following:
+   
+   (i) services relating to a decentralized cloud storage platform, including provision of storage and bandwidth,
+   
+   (ii) services providing third party developers a suite of tools for storage, identity and access management privacy and data ownership, encryption and security, transparency and public verifiability,
+   
+   iii) sharing with third party service providers for provision of the Services, including data storage, web hosting and server providers, debt collectors, professional advisors and payment systems operators,
 
-   (vi) credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you,
+   (iv) disclosure to our employees, contractors and/or related entities for the purpose of the Services,
 
-   (vii) courts, tribunals, regulatory authorities and law enforcement officers, as required by law, or in order to establish, exercise or defend our legal rights,
+   (v) disclosure to our existing or potential agents or business partners,
 
-   (viii) third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you,
+   (vi) sponsoring or promoting of any competition we run,
 
-   (ix) third parties to collect and process data, such as Google Analytics or other relevant businesses,
+   (vii) disclosure to anyone to whom our business or assets are, or may be, transferred,
 
-   (x) operate and maintain the security or integrity of the Services, including to prevent or stop an attack on our computer systems or networks,
+   (viii) disclosure to credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you,
 
-   (xi) protect the rights, interests, or property of our or third parties,
+   (ix) disclosure to courts, tribunals, regulatory authorities and law enforcement officers, as required by law, or in order to establish, exercise or defend our legal rights,
 
-   (xii) prevent or investigate possible wrongdoing in connection with the Services, or
+   (x) disclosure to third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you,
 
-   (xiii) enforce our [ T&C.](https://www.cryptokitties.co/terms-of-use)
+   (xi) disclosure to third parties to collect and process data, such as Google Analytics or other relevant businesses,
 
-   **3.2** We may disclose aggregated, anonymized information about our users without restriction.
+   (xii) operate and maintain the security or integrity of the Services, including to prevent or stop an attack on our computer systems or networks,
+
+   (xiii) protect the rights, interests, or property of our or third parties,
+
+   (xiv) prevent or investigate possible wrongdoing in connection with the Services, or
+
+   (xv) enforce our [ T&C.](https://www.cryptokitties.co/terms-of-use)
+
+   **4.2** We may disclose aggregated, anonymized information about our users without restriction.
 
    We may disclose personal information that we collect or you provide as described in this notice:
 
@@ -85,15 +99,15 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
    (v) If we believe disclosure is necessary or appropriate to protect the rights, property or safety of Arcana or its personnel, customers, or others.
 
-4. **Sensitive Personal Information** (“**SPI**”): SPI is Personal Data consisting of racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health or data concerning a natural person's sexual orientation. SPI may only be used and disclosed for purposes for which the SPI was collected, as permitted by the provider of the SPI and if required by law.
+5. **Sensitive Personal Information** (“**SPI**”): SPI is Personal Data consisting of racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health or data concerning a natural person's sexual orientation. SPI may only be used and disclosed for purposes for which the SPI was collected, as permitted by the provider of the SPI and if required by law.
 
-5. **Information Automatically Collected**
+6. **Information Automatically Collected**
 
-   **5.1.** We automatically collect certain types of usage information when you visit our website or use our Service. When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, identity of your internet service provider, information about your mobile device, referring / exit pages and URLs, the number and duration of page views, number of clicks and how you interact with links on the Service, domain names, landing pages, and other such information.
+   **6.1.** We automatically collect certain types of usage information when you visit our website or use our Service. When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, identity of your internet service provider, information about your mobile device, referring / exit pages and URLs, the number and duration of page views, number of clicks and how you interact with links on the Service, domain names, landing pages, and other such information.
 
-   **5.2.** When you access our site through a mobile device, we may receive or collect and store a unique identification number associated with your device and other device information. We may also employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third-party applications, and other information that assists us in analysing and improving the Service.
+   **6.2.** When you access our site through a mobile device, we may receive or collect and store a unique identification number associated with your device and other device information. We may also employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third-party applications, and other information that assists us in analysing and improving the Service.
 
-6. **Place of processing**
+7. **Place of processing**
 
    The Data is processed at the operating offices and in any other places where the parties involved in the processing are located.
 
@@ -101,7 +115,7 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
    Users are also entitled to learn about the legal basis of Data transfers to a country outside their jurisdiction or to any international organisation governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
 
-7. **Retention Time of the data collected**
+8. **Retention Time of the data collected**
 
    Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
@@ -113,13 +127,13 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
    Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-8. **The Website uses cookies**
+9. **The Website uses cookies**
 
    A cookie is a small text file placed on your computer or mobile device when you visit a Website or use an app. Cookies collect information about users and their visit to the Website or use of the app, such as their Internet protocol (IP) address, how they arrived at the Website (for example, through a search engine or a link from another Website), how they navigate within the Website or app, browser information, computer or device type, operating system, internet service provider, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, and ads viewed. We use cookies and other technologies to facilitate your internet sessions and use of our apps, offer you products and/or services according to your preferred settings, track use of our websites and apps and to compile statistics about activities carried out on our websites.
 
    You may set up your web browser to block cookies from monitoring your website visit. You may also remove cookies stored from your computer or mobile device. However, if you do block cookies you may not be able to use certain features and functions of our web sites.
 
-9. **Data Security:**
+10. **Data Security:**
 
    Without prejudice to the inherent risk of sharing and** **accessing data over the internet, we will use appropriate security measures (organisational and technical) to prevent your Personal Data from being accidentally lost, used, damaged, or accessed in an unauthorised or unlawful way, altered, or disclosed. In addition, we will allow access to your Personal Data only to those employees, agents, contractors and other third parties who have a legitimate business need to know and are subject to a duty of confidentiality. Despite the fact that we have implemented appropriate security measures, we cannot guarantee that the Personal Data we collect will not be shared/disclosed in a way that is inconsistent with this Privacy Policy.  
 
@@ -141,9 +155,9 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
    (vii) **Unsubscribe**: To unsubscribe from our e-mail or to opt-out of any communications, please contact us at the address provided in this Privacy Policy or where available, use opt-out option.
 
-10. **Additional Rights**
+11. **Additional Rights**
 
-    1. **General Data Protection Regulation (GDPR) Data Protection Rights**
+    **11.1 General Data Protection Regulation (GDPR) Data Protection Rights**
 
        The company invites you to be fully aware of all your personal data protection rights if you are a resident where the GDPR is applicable. Every such consumer is entitled to the following:
 
@@ -161,11 +175,11 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
       If the GDPR is applicable to you, you may make a request, and the Company will endeavour to respond to you within the timeline as per applicable law.
 
-    2. **Personal Data Protection Commission, Singapore**
+    **11.2 Personal Data Protection Commission, Singapore**
 
        The company invites you to be fully aware of all your personal data protection rights if you are a resident where the PDPC is applicable. We as the company are fully compliant of the regulations given in chapter 8 of the PDPC.
 
-11. **Queries, Access/Correction Requests and Withdrawal of Consent**
+12. **Queries, Access/Correction Requests and Withdrawal of Consent**
 
     If you:
 
@@ -180,12 +194,12 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
     We may charge you a fee for processing your request for access. Such a fee depends on the nature and complexity of your access request. Information on the processing fee will be made available to you.
 
 
-12. **Links to Other Sites:** The Platform may contain links to other websites. Those websites are not governed by this Privacy Policy. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Please read the Privacy Policy and Terms and Conditions of such websites before using such websites. We have no control over and shall not be responsible for the content, privacy policies or practices of any third-party sites or services.
+13. **Links to Other Sites:** The Platform may contain links to other websites. Those websites are not governed by this Privacy Policy. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Please read the Privacy Policy and Terms and Conditions of such websites before using such websites. We have no control over and shall not be responsible for the content, privacy policies or practices of any third-party sites or services.
 
-13. **Changes to our Privacy Policy:** We reserve the right to update this Privacy Policy at any time and at our sole discretion. Any changes to or modifications of this Privacy Policy shall be in effect as of the “Last Updated Date” referred to at the top of this page. We will notify you of such changes prominently either by posting a notice of such changes before they take effect, or by sending you a notification directly. The amended Privacy Policy is effective once we notify you of the change. We encourage you to periodically review this Privacy Policy.
+14. **Changes to our Privacy Policy:** We reserve the right to update this Privacy Policy at any time and at our sole discretion. Any changes to or modifications of this Privacy Policy shall be in effect as of the “Last Updated Date” referred to at the top of this page. We will notify you of such changes prominently either by posting a notice of such changes before they take effect, or by sending you a notification directly. The amended Privacy Policy is effective once we notify you of the change. We encourage you to periodically review this Privacy Policy.
 
-14. **Minor**: As provided in our T&C, our Service is not intended for anyone under the age of 18 or minor under the law of the country where the Services are accessed (“**Minor**”). We do not intend to or knowingly collect any Personal Data related to a Minor. If you believe that Personal Data of any minor has been collected or provided to us, please contact us.
+15. **Minor**: As provided in our T&C, our Service is not intended for anyone under the age of 18 or minor under the law of the country where the Services are accessed (“**Minor**”). We do not intend to or knowingly collect any Personal Data related to a Minor. If you believe that Personal Data of any minor has been collected or provided to us, please contact us.
 
-15. **Contact Details:** For queries on any aspect of this Privacy Policy or to provide any feedback please contact our office at:**hello@arcana.network**
+16. **Contact Details:** For queries on any aspect of this Privacy Policy or to provide any feedback please contact our office at:**hello@arcana.network**
 
-**(Last Updated: 10<sup>th</sup> June 2022)**
+**(Last Updated: 21<sup>st</sup> Dec 2022)**
