@@ -83,7 +83,7 @@ This Policy describes how Arcana may collect, use, disclose, process and manage 
 
    (xiv) prevent or investigate possible wrongdoing in connection with the Services, or
 
-   (xv) enforce our [ T&C.](https://www.cryptokitties.co/terms-of-use)
+   (xv) enforce our [ T&C.](./TERMS.md)
 
    **4.2** We may disclose aggregated, anonymized information about our users without restriction.
 
